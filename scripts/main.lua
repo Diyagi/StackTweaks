@@ -1,11 +1,9 @@
-ModName, ModVersion = "Stack Tweaks", "1.0.1"
+ModName, ModVersion = "Stack Tweaks", "1.0.2"
 local stackTweaks = require("stackTweaks")
 
-local preId, posId = nil, nil
-
--- TODO: Find a function to hook into for this, relying on delay is badge
-ExecuteWithDelay(3000, function()
-    ExecuteInGameThread(function()
+ExecuteInGameThread(function()
+    LoadAsset("/Game/SurvivalGameKitV2/Blueprints/Characters/BP_SGKController.BP_SGKController_C")
+    RegisterHook("/Game/SurvivalGameKitV2/Blueprints/Characters/BP_SGKController.BP_SGKController_C:ReceiveBeginPlay", function(self)
         local masterItemList = StaticFindObject("/Game/SurvivalGameKitV2/Blueprints/Items/MasterLists/MasterItemList.MasterItemList")
         
         masterItemList:ForEachRow(function(rowName, rowData)
