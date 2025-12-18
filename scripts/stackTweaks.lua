@@ -1,4 +1,4 @@
--- Generated at 2025-12-01 16:54
+-- Generated at 2025-12-18 17:41
 local stackTweaks = {}
 
 stackTweaks["Equipment_TacticalBackpack"] = {
@@ -452,7 +452,7 @@ stackTweaks["Equipment_PlagueDoctorSuit"] = {
 }
 
 stackTweaks["Resource_Ash"] = {
-    stackSize = 10,
+    stackSize = 50,
     allowStack = true
 }
 
@@ -1346,11 +1346,6 @@ stackTweaks["Equipment_RatWolfHide"] = {
     allowStack = false
 }
 
-stackTweaks["Equipment_TacticalRig"] = {
-    stackSize = 1,
-    allowStack = false
-}
-
 stackTweaks["Equipment_SovietRig"] = {
     stackSize = 1,
     allowStack = false
@@ -1478,6 +1473,76 @@ stackTweaks["BuildPart_WallFlag"] = {
 
 stackTweaks["Food_Caviar"] = {
     stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_SovietTacticalRig"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_MiliaryVest"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_ChristmasHat"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Drink_Champain"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Food_ChocoBunny"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_ChristmassTree"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_FurChair"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_GlobeDecor"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["Food_Mandarin"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_Samovar"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_Sink"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["Holdable_Scythe"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_TV_1"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_WallClocks"] = {
+    stackSize = 100,
     allowStack = false
 }
 
