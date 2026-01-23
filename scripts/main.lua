@@ -1,4 +1,4 @@
-ModName, ModVersion = "Stack Tweaks", "1.0.4"
+ModName, ModVersion = "Stack Tweaks", "1.0.5"
 local stackTweaks = require("stackTweaks")
 
 LoopAsync(2000, function()

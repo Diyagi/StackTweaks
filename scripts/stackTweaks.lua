@@ -1,4 +1,4 @@
--- Generated at 2025-12-18 17:41
+-- Generated at 2026-01-23 18:10
 local stackTweaks = {}
 
 stackTweaks["Equipment_TacticalBackpack"] = {
@@ -1543,6 +1543,191 @@ stackTweaks["BuildPart_TV_1"] = {
 
 stackTweaks["BuildPart_WallClocks"] = {
     stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_Carpet_4"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["BuildPart_Carpet_5"] = {
+    stackSize = 100,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_AK74"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_AK74SU"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_Kiparis"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_Mosin"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_Obrez"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_PM"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_PPSH"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_Saiga12"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_SVD"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_TOZ"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_TT33"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_Weapon_VAL"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_FieldJacket"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_KitelJacket"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_PoliceBushlat"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_HunterSuit"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_SchoolBackpack"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_HunterBackpack"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_PoliceVest"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_HunterVest"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_TacticalRig"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_HamsterGasmask"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_Petushok"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_Pilotka"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_SmallBennie"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_SaunaHat"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_MotocycleHelmetRed"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Equipment_MotocycleHelmetGray"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Resource_BrokenHumsterGasmask"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Weapon_Crowbar"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Weapon_Handsaw"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Weapon_HunterKnife"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Weapon_Sickle"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Holdable_Pitchfork"] = {
+    stackSize = 1,
+    allowStack = false
+}
+
+stackTweaks["Holdable_SplittingAxe"] = {
+    stackSize = 1,
     allowStack = false
 }
 
